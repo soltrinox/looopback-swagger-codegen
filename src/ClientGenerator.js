@@ -10,7 +10,7 @@ export default class ClientGenerator {
   static get CLIENT_ENUM(){
     //see  http://generator.swagger.io/api/gen/clients
     return {
-        andorid:"android",
+        android:"android",
         nodeJs: "node-js",
         akkaScala: "akka-scala",
         asyncScala:  "async-scala",
