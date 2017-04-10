@@ -35,7 +35,7 @@ var ClientGenerator = function () {
     get: function get() {
       //see  http://generator.swagger.io/api/gen/clients
       return {
-        andorid: "android",
+        android: "android",
         nodeJs: "node-js",
         akkaScala: "akka-scala",
         asyncScala: "async-scala",
